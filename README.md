@@ -2,7 +2,7 @@
 
 👀 I’m deeply passionate about full-stack development. Technologies like C#, .NET Core, React, and Azure really get me excited! 🚀
 
-🌱 Right now, I’m diving even deeper into containerization with Docker and orchestration with Kubernetes. 🐳
+🌱 Currently, I'm immersing myself in the world of AI chatbots and app development. 🤖📱🐳
 
 💞️ Given my extensive experience in healthcare and finance, I’m always looking to collaborate on projects in these domains. Got something cool? Let's team up! 🤝
 

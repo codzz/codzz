@@ -6,7 +6,6 @@
 
 💞️ Given my extensive experience in healthcare and finance, I’m always looking to collaborate on projects in these domains. Got something cool? Let's team up! 🤝
 
-🌐 Check out my personal website: [ajithjoseph.com](https://ajithjoseph.com).
 
 📫 The best way to reach me? Drop me a message on [LinkedIn](https://www.linkedin.com/in/ajithjozef) or shoot an email to <contact@ajithjoseph.com> 💌.
 

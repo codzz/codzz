@@ -32,7 +32,6 @@
 
 ## 🛠️ Projects
 Here are some of the projects I worked on:
-- **Free Public APIs**: Explore a collection of free public APIs [here](https://ajithjoseph.com/API).
 - **YouTube Downloader**: Download YouTube videos easily with [Codzz YouTube Downloader](https://www.softpedia.com/get/Internet/Download-Managers/Codzz-Youtube-Downloader.shtml).
 
 ## 💬 Contact
